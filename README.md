@@ -2,7 +2,7 @@ This is a simple project that show a random number of cards (0-9).
 
 - For the card info, [RANDOM USER GENERATOR](https://randomuser.me/) was used.
 - For the banner pictures, [Lorem Picsum](https://picsum.photos/) was used.
-- The site was hosted in a S3 Bucket, you can access it on `http://simple-cards-project-bucket.s3-website-us-east-1.amazonaws.com/`
+- The site was hosted in a S3 Bucket, you can access it [here](http://simple-cards-project-bucket.s3-website-us-east-1.amazonaws.com/)
 
 # Start server
 
